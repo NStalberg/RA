@@ -1,0 +1,5 @@
+span.SourceCode-Forms-Controls-Web-Label[name$="_Req"]::after {
+  content: '*';
+  color: #FF7569;
+  font-weight: bold;
+}
